@@ -9,6 +9,9 @@ associated with toxic comments.
 To run the project, install dependencies and then run 
 python toxicity.py
 
+# Testing
+To test the model, I have created a gradio interface, you can open the link in browser. Gradio app is a small light weight app used for model testing.
+
 # Results
 The model achieves promising results in predicting comment toxicity. However,
 the accuracy and performance may vary depending on the dataset used for training and 
